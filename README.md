@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-ISTronix is a web-based retail platform dedicated to the sale of electronic products and components. This project is the Final Project repository for the course **CIS 226 - Programming for E-Business Applications**.
+ISTronix is a web-based retail platform dedicated to the sale of electronic products and components. This project is the Final Project repository for the course **CIS 226 - Programming for E-Business Applications**. The system features a dynamic product catalog and a user-friendly interface designed to streamline the online shopping experience.
 
 ## Features
 
@@ -12,8 +12,19 @@ ISTronix is a web-based retail platform dedicated to the sale of electronic prod
 
 ## Technology Stack
 
+### Frontend
+- **HTML5** - Markup and structure
+- **CSS3** (3.4%) - Styling and user interface design
+- **Bootstrap 5.3.3** - Responsive UI framework
+- **jQuery 3.6.0** - DOM manipulation and JavaScript utilities
+
+### Backend
 - **PHP** (93.9%) - Server-side logic and backend functionality
-- **CSS** (3.4%) - Styling and user interface design
+
+### Database
+- **MySQL** - Data persistence and management
+
+### Additional
 - **Hack** (2.7%) - Additional scripting and utilities
 
 ## About This Course
